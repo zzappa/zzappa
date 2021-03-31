@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm Artem. I work as a full-time Python Software Engineer and Data Analyst. I have a Speciaist Degree in Physics, I've worked before in high-energy physics laboratory analyzing data from Large Hadron Collider, in a company-manufacturer of medical laser devices as an Optician Engineer, and spent some time at Light-vs-Matter Lab at Weizmann Institute, working on [Raman fiber amplifier](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-22-32738).
 
 ### Getting in touch 📫
-[LinkedIn](https://www.linkedin.com/in/artem-golenchenko/)
+[LinkedIn](https://www.linkedin.com/in/artemgo/)
