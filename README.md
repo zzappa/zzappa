@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Artem. I'm a Software Engineer and Data Analyst with a background in Physics. I've worked before in high-energy physics laboratory analyzing data from Large Hadron Collider, in a company-manufacturer of medical laser devices as an Optical Engineer, and spent some time at Light-vs-Matter Lab at Weizmann Institute, working on [Raman fiber amplifier](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-22-32738).
+I'm Artem, a Software/ML Engineer with a background in Physics.
 
 ### Getting in touch 📫
 [LinkedIn](https://www.linkedin.com/in/artemgo/)
